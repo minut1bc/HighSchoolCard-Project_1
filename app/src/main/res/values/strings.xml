@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">High School Card</string>
+    <string name="website">Website:</string>
+    <string name="phone_number">021 252 5700</string>
+    <string name="address_part_2">Bucharest, RO, 030167</string>
+    <string name="address_part_1">62 Pache Protopopescu Blvd</string>
+    <string name="mihai_viteazul_national_college">Mihai Viteazul National College</string>
+    <string name="school_photo">School Photo</string>
+    <string name="school_symbol">School Symbol</string>
+</resources>
